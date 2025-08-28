@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sandeep Goud Macha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgoudmacha&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgoudmacha" /> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sandeepgoudmacha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sandeepgoudmacha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepgoudmacha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepgoudmacha" alt="sandeepgoudmacha" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sandeepgoudmacha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=sandeepgoudmacha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepgoudmacha&show_icons=true&locale=en&layout=compact" alt="sandeepgoudmacha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepgoudmacha&show_icons=true&locale=en" alt="sandeepgoudmacha" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
