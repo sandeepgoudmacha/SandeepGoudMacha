@@ -1,10 +1,3 @@
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepgoudmacha&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sandeepgoudmacha&show_icons=true&theme=tokyonight)
