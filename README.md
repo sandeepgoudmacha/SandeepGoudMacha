@@ -1,14 +1,28 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandeepgoudmacha&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
-![](https://nirzak-streak-stats.vercel.app/?user=sandeepgoudmacha&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepgoudmacha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandeepgoudmacha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=sandeepgoudmacha&icon=0&color=0)](https://visitcount.itsvg.in) -->
-<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=sandeepgoudmacha&label=Profile%20views&color=0e75b6&style=flat) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sandeepgoudmacha)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api?username=sandeepgoudmacha&show_icons=true&theme=tokyonight)
 
+![](https://streak-stats.demolab.com?user=sandeepgoudmacha&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepgoudmacha&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=sandeepgoudmacha&theme=tokyo-night)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sandeepgoudmacha&theme=onedark)
+
+---
