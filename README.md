@@ -1,7 +1,10 @@
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sandeepgoudmacha&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandeepgoudmacha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepgoudmacha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://streak-stats.demolab.com?user=sandeepgoudmacha&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepgoudmacha&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sandeepgoudmacha&theme=tokyonight&hide_border=true" />
+</p>
